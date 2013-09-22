@@ -51,5 +51,5 @@ Blackberry 	 <br />
 Windows phone      <br /> 
 
 
-More information:  
-<a href="http://www.cloudwark.in/browser-detection-javascript">here</a>
+<h3>More information:  </h3>
+<a href="http://www.cloudwark.in/browser-detection-javascript">read documentation</a>
